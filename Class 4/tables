@@ -1,0 +1,38 @@
+<html>
+
+<head>
+
+    <tittle>Marks of studentnts (Table)
+    </tittle>
+</head>
+
+<body>
+   <h1>students marks</h1>
+   <h1>Top 5 students result </h1>
+    <Table border>
+        <thead>
+            <tr>
+            <th>students</th> 
+            <th>results</th>  
+            <th>class avrage</th>
+            </tr>
+            </thead>
+</body>
+<tr>
+<td>purva</td>
+<td>krisha</td>
+<td>alpa</td>
+<td>paras</td>
+</tr>
+<tr>
+    <td>80</td>
+    <td>78</td>
+    <td>75</td>
+    <td>70</td>
+</tr>
+<tr>
+    <td>65</td>
+    <td>50</td>
+    <td>45</td>
+    <td>42</td>
+</tr>
