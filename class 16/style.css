@@ -1,0 +1,28 @@
+
+.text1 {
+    color: rgb(138, 213, 248);
+    text-decoration: underline;
+}
+
+.text2 {
+    color: #f893ce;
+    text-decoration: line-through;
+}
+
+.text3 {
+    color: rgb(224, 138, 245);
+    text-decoration: underline;
+}
+
+.text4 {
+    color: rgba(248, 121, 121, 0.822);
+    text-decoration: underline override;
+}
+
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
