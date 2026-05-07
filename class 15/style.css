@@ -1,0 +1,42 @@
+.text1{
+color:rgb(168, 209, 250);
+font-size: 30px;
+}
+.p1{
+    color:rgb(186, 120, 247);
+    font-family: 'courier new','Courier New', Courier, monospace;
+}
+div{
+    width:300px;
+    height:100px;
+    background-color: pink;
+    border:1px solid black;
+}
+#myDiv{
+    transform: rotatex(180deg);
+}
+h1{
+    text-decoration: overline;
+    text-transform: capitalize;
+}
+h2{
+    text-decoration: line-through;
+        text-transform:lowercase;
+}
+h3{
+    text-decoration: underline;
+        text-transform:lowercase;
+}
+h4{
+    text-decoration:underline overline;
+        text-transform:none;
+}
+#text{
+    text-shadow: 2px 2px 1px #fa2347;
+}
+#box{
+    box-shadow: 9px 9px 5px #7ffa85;
+}
+#indent{
+    text-indent: 50%;
+}
