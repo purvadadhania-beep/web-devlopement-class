@@ -1,0 +1,51 @@
+body{
+    font-family: Arial,sans-serif;
+    background-color:plum;
+    color:black ;
+}
+h1{
+    color:rgb(255, 97, 124) ;
+}
+a{
+    color:blue ;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(252, 51, 51);
+}
+ul> li{
+    font-weight: bold;
+}
+h1+p{
+    background-color: rgb(247, 247, 101);
+    padding: 10px;
+    border-radius: 5px;
+}
+ul li:hover{
+    color: rgb(80, 248, 80);
+
+}
+ul li:nth-child(3) {
+    background-color:rgb(245, 188, 81) ;
+
+}
+/* :not(selector) Pseudo-class */
+   p:not(:first-of-type) {
+    text-decoration: underline;
+}
+
+/* ::before Pseudo-element */
+ul li::before {
+    content: "";
+}
+
+/* ::after Pseudo-element */
+a::after {
+    content: "";
+}
+
+/* ::first-letter Pseudo-element */
+p::first-letter {
+    font-size: 200%;
+    color: #FF7B72;
+}
